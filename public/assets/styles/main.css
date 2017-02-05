@@ -405,7 +405,7 @@ template {
 .page {
   width: 100%;
   height: 100%;
-  background-image: url("../images/background_top.png"), url("../images/background_bottom.png");
+  background-image: url("../images/background_top.jpg"), url("../images/background_bottom.jpg");
   background-position: center top, center bottom;
   background-size: 100% auto, 100% auto;
   background-repeat: no-repeat;

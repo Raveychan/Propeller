@@ -61,15 +61,15 @@ include_once "inc/_header.php";
         </div>
     </section>
     <div class="main-carousel">
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
     </div>
     <section class="social clearfix">
         <div class="social__sections social__twitter">
@@ -131,8 +131,7 @@ include_once "inc/_header.php";
 </div>
 
 <script type="text/javascript" src="assets/scripts/vendor/jquery-3.1.1.min.js"></script>
-<script type="text/javascript" src="assets/scripts/main.min.js"></script>
-
+<script type="text/javascript" src="assets/scripts/main.min.js"></scripjpg
 </body>
 
 </html>
