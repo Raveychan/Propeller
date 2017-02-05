@@ -7,7 +7,7 @@ $(document).ready( function () {
         prevNextButtons: false,
         setGallerySize: false,
         draggable: true,
-        dragThreshold: 10
+        dragThreshold: 9
     });
 });
 

@@ -95,16 +95,16 @@ include_once "inc/_header.php";
             <p class="social__subtitles">Subscribe to our newsletter and never miss out on our exclusive offers!</p>
             <form class="social__form">
                 <div class="inputs__wrap">
-                    <p class="inputs__inner inputs__name">name</p>
-                    <input class="inputs inputs__inner" type="text">
+                    <label class="inputs__inner inputs__name">name</label>
+                    <input title="name" class="inputs inputs__inner" type="text">
                 </div>
                 <div class="inputs__wrap">
-                    <p class="inputs__title inputs__inner">email</p>
-                    <input class="inputs inputs__inner" type="email">
+                    <label class="inputs__title inputs__inner">email</label>
+                    <input title="email" class="inputs inputs__inner" type="email">
                 </div>
                 <div class="inputs__wrap">
-                    <p class="inputs__birthday">birthday</p>
-                    <select class="inputs inputs__inner select">
+                    <label class="inputs__birthday">birthday</label>
+                    <select title="day" class="inputs inputs__inner select">
                         <option>dd</option>
                         <?php
                         for ($x = 1; $x <= 31; $x++) {
@@ -112,7 +112,7 @@ include_once "inc/_header.php";
                         }
                         ?>
                     </select>
-                    <select class="inputs inputs__inner select">
+                    <select title="month" class="inputs inputs__inner select">
                         <option>mm</option>
                         <?php
                         for ($x = 1; $x <= 12; $x++) {
@@ -129,9 +129,9 @@ include_once "inc/_header.php";
     include_once "inc/_footer.php";
     ?>
 </div>
+
 <script type="text/javascript" src="assets/scripts/vendor/jquery-3.1.1.min.js"></script>
-<script type="text/javascript" src="assets/scripts/vendor/flickity.js"></script>
-<script type="text/javascript" src="assets/scripts/own/hello.js"></script>
+<script type="text/javascript" src="assets/scripts/main.min.js"></script>
 
 </body>
 

@@ -407,7 +407,7 @@ template {
   height: 100%;
   background-image: url("../images/background_top.png"), url("../images/background_bottom.png");
   background-position: center top, center bottom;
-  background-size: auto auto, auto auto;
+  background-size: 100% auto, 100% auto;
   background-repeat: no-repeat;
   background-color: black; }
   .page__wrapper {
