@@ -1,5 +1,5 @@
 .main-carousel {
-	z-index: -200;
+	z-index: 200;
 	height: 500px;
 
 	@include mq($max,$mobile) {
@@ -8,10 +8,37 @@
 
 }
 .background-image {
-	height: 900px;
 	width: 100%;
 
 }
 
 .carousel-cell {
+}
+
+.flickity-page-dots {
+	bottom: 30px;
+}
+
+.flickity-page-dots .dot {
+
+	z-index: 200;
+	width: 10px;
+	height: 10px;
+	margin: 0 10px;
+	opacity: 1;
+	background: $secondaryColor;
+	border-radius: 0;
+	transition: all ease 0.5s;
+
+	&:last-of-type {
+		margin-right: 0;
+	}
+
+}
+
+.flickity-page-dots .dot.is-selected {
+
+	-ms-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	transition: all ease 0.5s;
 }

@@ -3,9 +3,11 @@ $(document).ready( function () {
     $('.main-carousel').flickity({
         autoPlay: 5000,
         wrapAround: true,
-        pageDots: false,
+        pageDots: true,
         prevNextButtons: false,
-        setGallerySize: false
+        setGallerySize: false,
+        draggable: true,
+        dragThreshold: 10
     });
 });
 

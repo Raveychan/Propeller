@@ -69,6 +69,11 @@ a {
 }
 
 .cursive {
-	text-transform: capitalize;
+	text-transform: lowercase;
 	font-style: italic;
+	font-size: $fontSizeMedium;
+}
+
+.uppercase {
+	text-transform: uppercase;
 }

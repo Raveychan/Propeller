@@ -14,8 +14,8 @@
 
 <div class="socialIcons">
     <ul class="socialIcons__wrapper">
-        <li class="socialIcons__elements"><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-        <li class="socialIcons__elements"><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-        <li class="socialIcons__elements"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+        <li class="socialIcons__elements"><a href="#"><i class="fa fa-facebook socialIcons__icons" aria-hidden="true"></i></a></li>
+        <li class="socialIcons__elements"><a href="#"><i class="fa fa-twitter socialIcons__icons" aria-hidden="true"></i></a></li>
+        <li class="socialIcons__elements"><a href="#"><i class="fa fa-instagram socialIcons__icons" aria-hidden="true"></i></a></li>
     </ul>
 </div>

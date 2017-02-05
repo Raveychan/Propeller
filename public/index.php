@@ -22,7 +22,7 @@ include_once "inc/_header.php";
         <div class="cta__wrappers">
             <div class="cta__overlay">
                 <div class="cta__overlayText">
-                    <p class="cursive">book a table</p>
+                    <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
                     <p class="cursive"><a href="#">click here</a></p>
                 </div>
@@ -32,7 +32,7 @@ include_once "inc/_header.php";
         <div class="cta__wrappers">
             <div class="cta__overlay">
                 <div class="cta__overlayText">
-                    <p class="cursive">book a table</p>
+                    <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
                     <p class="cursive"><a href="#">click here</a></p>
                 </div>
@@ -42,7 +42,7 @@ include_once "inc/_header.php";
         <div class="cta__wrappers">
             <div class="cta__overlay">
                 <div class="cta__overlayText">
-                    <p class="cursive">book a table</p>
+                    <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
                     <p class="cursive"><a href="#">click here</a></p>
                 </div>
@@ -52,7 +52,7 @@ include_once "inc/_header.php";
         <div class="cta__wrappers">
             <div class="cta__overlay">
                 <div class="cta__overlayText">
-                    <p class="cursive">book a table</p>
+                    <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
                     <p class="cursive"><a href="#">click here</a></p>
                 </div>
@@ -61,6 +61,11 @@ include_once "inc/_header.php";
         </div>
     </section>
     <div class="main-carousel">
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
+        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
         <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
         <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
         <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.png"></div>
