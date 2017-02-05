@@ -33,6 +33,16 @@
 			margin-right: 0;
 		}
 	}
+
+	&__link {
+
+		&:hover {
+
+			border-bottom: 4px double $secondaryColor;
+			color: $secondaryColor;
+		}
+
+	}
 }
 
 .socialIcons {
@@ -63,6 +73,11 @@
 
 		&:last-of-type {
 			margin-right: 0;
+		}
+
+		&:hover {
+			background-color: $secondaryColor;
+			color: $primaryColor;
 		}
 	}
 }

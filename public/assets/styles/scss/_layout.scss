@@ -62,16 +62,6 @@
 a {
 	color: inherit;
 	text-decoration: none;
-
-	&:hover {
-		color: $highlightColor;
-	}
-}
-
-.cursive {
-	text-transform: lowercase;
-	font-style: italic;
-	font-size: $fontSizeMedium;
 }
 
 .uppercase {

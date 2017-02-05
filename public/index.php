@@ -24,7 +24,7 @@ include_once "inc/_header.php";
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
-                    <p class="cursive"><a href="#">click here</a></p>
+                    <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
             <img src="assets/images/tables.png" class="cta__images">
@@ -34,7 +34,7 @@ include_once "inc/_header.php";
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
-                    <p class="cursive"><a href="#">click here</a></p>
+                    <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
             <img src="assets/images/hotdog.png" class="cta__images">
@@ -44,7 +44,7 @@ include_once "inc/_header.php";
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
-                    <p class="cursive"><a href="#">click here</a></p>
+                    <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
             <img src="assets/images/vine.png" class="cta__images">
@@ -54,7 +54,7 @@ include_once "inc/_header.php";
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
                     <img src="assets/images/arrows.png">
-                    <p class="cursive"><a href="#">click here</a></p>
+                    <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
             <img src="assets/images/coffee.png" class="cta__images">

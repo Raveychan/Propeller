@@ -1,14 +1,14 @@
 <section class="logo__wrapper">
-    <img class="logo" src="assets/images/logo.png">
+    <a href="#"><img class="logo" src="assets/images/logo.png"></a>
 </section>
 <nav class="navigation">
     <ul class="navigation__wrapper">
-        <li class="navigation__elements"><a href="#">about</a></li>
-        <li class="navigation__elements"><a href="#">menus</a></li>
-        <li class="navigation__elements"><a href="#">locations</a></li>
-        <li class="navigation__elements"><a href="#">bookings</a></li>
-        <li class="navigation__elements"><a href="#">gallery</a></li>
-        <li class="navigation__elements"><a href="#">contact</a></li>
+        <li class="navigation__elements"><a href="#" class="navigation__link">about</a></li>
+        <li class="navigation__elements"><a href="#" class="navigation__link">menus</a></li>
+        <li class="navigation__elements"><a href="#" class="navigation__link">locations</a></li>
+        <li class="navigation__elements"><a href="#" class="navigation__link">bookings</a></li>
+        <li class="navigation__elements"><a href="#" class="navigation__link">gallery</a></li>
+        <li class="navigation__elements"><a href="#" class="navigation__link">contact</a></li>
     </ul>
 </nav>
 

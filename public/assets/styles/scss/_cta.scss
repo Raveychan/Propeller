@@ -54,4 +54,14 @@
 		padding: 0;
 		margin: 0;
 	}
+
+	&__link {
+		text-transform: lowercase;
+		font-style: italic;
+		font-size: $fontSizeMedium;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
 }
