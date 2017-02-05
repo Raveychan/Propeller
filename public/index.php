@@ -23,53 +23,53 @@ include_once "inc/_header.php";
             <div class="cta__overlay">
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
-                    <img src="assets/images/arrows.png">
+                    <img alt="arrows" src="assets/images/arrows.png">
                     <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
-            <img src="assets/images/tables.png" class="cta__images">
+            <img alt="tables" src="assets/images/tables.png" class="cta__images">
         </div>
         <div class="cta__wrappers">
             <div class="cta__overlay">
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
-                    <img src="assets/images/arrows.png">
+                    <img alt="arrows" src="assets/images/arrows.png">
                     <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
-            <img src="assets/images/hotdog.png" class="cta__images">
+            <img alt="hotdog" src="assets/images/hotdog.png" class="cta__images">
         </div>
         <div class="cta__wrappers">
             <div class="cta__overlay">
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
-                    <img src="assets/images/arrows.png">
+                    <img alt="arrows" src="assets/images/arrows.png">
                     <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
-            <img src="assets/images/vine.png" class="cta__images">
+            <img alt="wine" src="assets/images/vine.png" class="cta__images">
         </div>
         <div class="cta__wrappers">
             <div class="cta__overlay">
                 <div class="cta__overlayText">
                     <p class="uppercase">book a table</p>
-                    <img src="assets/images/arrows.png">
+                    <img alt="arrows" src="assets/images/arrows.png">
                     <p class="cta__link"><a href="#">click here</a></p>
                 </div>
             </div>
-            <img src="assets/images/coffee.png" class="cta__images">
+            <img alt="coffee" src="assets/images/coffee.png" class="cta__images">
         </div>
     </section>
     <div class="main-carousel">
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
-        <div class="carousel-cell"><img src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
+        <div class="carousel-cell"><img alt="carousel" src="assets/images/carousel/crouselGallery.jpg"></div>
     </div>
     <section class="social clearfix">
         <div class="social__sections social__twitter">
@@ -86,8 +86,8 @@ include_once "inc/_header.php";
             <p class="social__subtitles">PBT_propeller</p>
             <div class="button button__social"><a href="#" class="button__text">follow</a></div>
             <div class="instagram__wrap">
-                <img class="instagram__images" src="assets/images/insta_feed_1.png">
-                <img class="instagram__images" src="assets/images/insta_feed_2.png">
+                <img alt="photo" class="instagram__images" src="assets/images/insta_feed_1.png">
+                <img alt="photo" class="instagram__images" src="assets/images/insta_feed_2.png">
             </div>
         </div>
         <div class="social__sections social__signup">

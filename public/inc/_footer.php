@@ -16,4 +16,4 @@
         </ul>
     </div>
 </footer>
-<div><img class="logo__small" src="./assets/images/smallLogo.png"></div>
+<div><img alt="smallLogo" class="logo__small" src="./assets/images/smallLogo.png"></div>

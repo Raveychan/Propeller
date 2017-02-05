@@ -1,5 +1,5 @@
 <section class="logo__wrapper">
-    <a href="#"><img class="logo" src="assets/images/logo.png"></a>
+    <a href="#"><img alt="logo" class="logo" src="assets/images/logo.png"></a>
 </section>
 <nav class="navigation">
     <ul class="navigation__wrapper">
