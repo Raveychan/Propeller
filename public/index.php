@@ -131,7 +131,7 @@ include_once "inc/_header.php";
 </div>
 
 <script type="text/javascript" src="assets/scripts/vendor/jquery-3.1.1.min.js"></script>
-<script type="text/javascript" src="assets/scripts/main.min.js"></scripjpg
+<script type="text/javascript" src="assets/scripts/main.min.js"></script>
 </body>
 
 </html>
