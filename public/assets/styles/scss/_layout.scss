@@ -1,0 +1,74 @@
+.page {
+
+	width: 100%;
+	height: 100%;
+	background: {
+		image: url("../images/background_top.png") , url("../images/background_bottom.png");
+		position: center top, center bottom;
+		size: auto auto, auto auto;
+		repeat: no-repeat;
+		color: black;
+	}
+
+	&__wrapper {
+		width: 1240px;
+		margin: 150px auto 100px;
+
+		@include mq($max,$desktop) {
+			width: 980px;
+			margin: 100px auto 60px;
+		}
+
+		@include mq($max,$tablet) {
+			width: 100%;
+			margin: 50px auto 60px;
+		}
+	}
+}
+
+.logo {
+
+	width: 100%;
+	display: block;
+	left: 50%;
+
+
+	&__wrapper {
+		width: 25%;
+		margin: auto auto 85px;
+
+		@include mq($max,$mobile) {
+		width: 50%;
+		}
+
+		@include mq($max,$desktop) {
+			margin: 0 auto 30px;
+		}
+	}
+
+	&__small {
+
+		margin-top: 20px;
+		position: absolute;
+		left: 50%;
+		transform: translate(-50%, 0);
+
+		@include mq($max,$desktop) {
+			margin-top: 5px;
+		}
+	}
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+
+	&:hover {
+		color: $highlightColor;
+	}
+}
+
+.cursive {
+	text-transform: capitalize;
+	font-style: italic;
+}

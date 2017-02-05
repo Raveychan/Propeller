@@ -1,0 +1,61 @@
+.navigation {
+	margin: 50px 0;
+
+	&__wrapper {
+		margin: 0;
+		border-top: $border;
+		border-bottom: $border;
+		padding: 0;
+		width: 100%;
+		text-align: center;
+		text-transform: uppercase;
+		font-size: $fontSizeMedium;
+
+	}
+
+	&__elements {
+		padding: 19px 15px;
+		margin-right: 90px;
+		display: inline-block;
+		color: $secondaryColor;
+
+		@include mq($max,$desktop) {
+			margin-right: 40px;
+		}
+
+		@include mq($max,$mobile) {
+			font-size: 20px;
+			margin: 0 10px 0 0;
+			padding: 10px 40px;
+		}
+
+		&:last-of-type {
+			margin-right: 0;
+		}
+	}
+}
+
+.socialIcons {
+
+	margin: 60px 0 120px;
+	color: $secondaryColor;
+
+	@include mq($max,$desktop) {
+		margin: 50px 0;
+	}
+
+	&__wrapper {
+		font-size: 50px;
+		padding: 0;
+		text-align: center;
+	}
+
+	&__elements {
+		margin-right: 40px;
+		display: inline-block;
+
+		&:last-of-type {
+			margin-right: 0;
+		}
+	}
+}

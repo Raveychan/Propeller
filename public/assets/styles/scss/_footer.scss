@@ -1,0 +1,36 @@
+.footer {
+
+	color: $secondaryColor;
+
+	border-top: 1px solid $secondaryColor;
+	padding-bottom: 10px;
+
+	&__items {
+		display: inline-block;
+		border-right: 1px solid $secondaryColor;
+		padding: 0 2.3%;
+
+		@include mq($max,$desktop) {
+			padding: 0 1%;
+		}
+
+		@include mq($max,$mobile) {
+			padding: 0;
+			width: 49%;
+		}
+
+		&:first-of-type {
+			padding-left: 0;
+		}
+
+		&:last-of-type {
+			padding-right: 0;
+			border: none;
+		}
+	}
+
+	&__wrap {
+		margin-top: 3px;
+		border-top: 1px solid $secondaryColor;
+	}
+}

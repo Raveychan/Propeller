@@ -1,0 +1,17 @@
+.main-carousel {
+	z-index: -200;
+	height: 500px;
+
+	@include mq($max,$mobile) {
+		display: none;
+	}
+
+}
+.background-image {
+	height: 900px;
+	width: 100%;
+
+}
+
+.carousel-cell {
+}
